@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ImcCalculator" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.ImcCalculator" parent="Base.Theme.ImcCalculator" />
+
+    //para criar a tela de splash
+    <style name="Theme.ImcCalculator.Splash" parent="Theme.SplashScreen">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@drawable/fundo_degrade</item>
+        <item name="postSplashScreenTheme">@style/Theme.ImcCalculator</item>
+    </style>
+</resources>
