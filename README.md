@@ -2,7 +2,7 @@
 
 Aplicativo Android que calcula o **IMC (Índice de Massa Corporal)** a partir do peso e da altura e mostra a classificação.
 
-Projeto feito para o [Desafio 0 da Escola Nova Era](https://github.com/Escola-Nova-Era/form-android/blob/main/desafio0/README.md), praticando o básico de Android com Kotlin.
+Projeto feito para o [Desafio da Escola Nova Era](https://github.com/Escola-Nova-Era/form-android/blob/main/desafio0/README.md), praticando o básico de Android com Kotlin.
 
 ## 📸 Telas
 
